@@ -1,0 +1,33 @@
+* {
+  background-color: pink;
+  font-family: sans-serif;
+}
+h1 {
+  text-decoration: underline;
+  text-align: center;
+  font-size: 50px;
+}
+div {
+  text-align: center;
+}
+img {
+  max-width: 250px;
+  border: 3px solid black;
+}
+ul {
+  list-style-position: inside;
+}
+#paragraph {
+  font-size: 25px;
+}
+#list {
+  text-align: center;
+}
+#special-li {
+  font-size: 18px;
+}
+#clicker:hover {
+  color: blue;
+  cursor: pointer;
+  transform: scale(1.5, 1.5)
+}
